@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Link-tree-custom/static/css/main.e06e9e22.css",
+    "main.js": "/Link-tree-custom/static/js/main.c1c6353b.js",
+    "static/js/787.55f350d7.chunk.js": "/Link-tree-custom/static/js/787.55f350d7.chunk.js",
+    "static/media/profilePic1.png": "/Link-tree-custom/static/media/profilePic1.45a862cf13f337188a50.png",
+    "static/media/stockInsta.png": "/Link-tree-custom/static/media/stockInsta.e9d67e6bd0e9e57417ec.png",
+    "static/media/tiktokLogo.png": "/Link-tree-custom/static/media/tiktokLogo.5b2df9a03143aff5a254.png",
+    "static/media/snapchatApp.png": "/Link-tree-custom/static/media/snapchatApp.b3f55f85c68146341c9a.png",
+    "static/media/instagramApp.png": "/Link-tree-custom/static/media/instagramApp.ead1470f682fdd553f8a.png",
+    "static/media/tiktokApp.png": "/Link-tree-custom/static/media/tiktokApp.f7de2dc969afd6faaec5.png",
+    "index.html": "/Link-tree-custom/index.html",
+    "main.e06e9e22.css.map": "/Link-tree-custom/static/css/main.e06e9e22.css.map",
+    "main.c1c6353b.js.map": "/Link-tree-custom/static/js/main.c1c6353b.js.map",
+    "787.55f350d7.chunk.js.map": "/Link-tree-custom/static/js/787.55f350d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e06e9e22.css",
+    "static/js/main.c1c6353b.js"
+  ]
+}
