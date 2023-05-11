@@ -16,7 +16,12 @@
     /* Widget grid */
     display: grid;
     grid-template-rows: repeat(4, 1fr);
+    overflow-y: scroll;
 
+}
+
+#followerWidget::-webkit-scrollbar { 
+    display: none;  /* Safari and Chrome */
 }
 
 #followerWidget > div:first-of-type{
