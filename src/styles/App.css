@@ -69,8 +69,9 @@ body {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(7, 1fr);
+  /* row-gap: 10px;
+  column-gap: 10px; */
   row-gap: 10px;
-  column-gap: 10px;
 }
 
 #foot{
